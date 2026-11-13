@@ -1,0 +1,766 @@
+{
+  "common": {
+    "globalUI": {
+      "loadingText": "Loading ArchVanta Experience...",
+      "notFoundText": "Page Not Found"
+    },
+    "Footer": {
+      "logo": {
+        "src": "/main logo/light-logo.png",
+        "alt": "ArchVanta"
+      },
+      "columns": [
+        {
+          "title": "About",
+          "key": "about"
+        },
+        {
+          "title": "Recent Events",
+          "key": "events"
+        },
+        {
+          "title": "Information",
+          "key": "links"
+        },
+        {
+          "title": "Contact Info",
+          "key": "contact"
+        }
+      ],
+      "backgroundImage": "/other/footer-bg.webp",
+      "about": "We remain true to the same principles on which our company was founded: providing superior service to our clients, putting safety first, and creating opportunities for our people.",
+      "events": [
+        {
+          "id": 1,
+          "title": "Results of Annual General Meeting",
+          "date": "June 1, 2016",
+          "image": "/other/gallery-3.webp",
+          "href": ""
+        },
+        {
+          "id": 2,
+          "title": "Safety Training Program",
+          "date": "May 20, 2016",
+          "image": "/other/about.jpg",
+          "href": ""
+        }
+      ],
+      "links": [
+        {
+          "label": "Our Companysss",
+          "href": "#about"
+        },
+        {
+          "label": "Our Services",
+          "href": "#services"
+        },
+        {
+          "label": "Our Projects",
+          "href": "#projects"
+        },
+        {
+          "label": "Gallery",
+          "href": "/#project-gallery"
+        },
+        {
+          "label": "Testimonials",
+          "href": "#testimonials"
+        },
+        {
+          "label": "FAQ",
+          "href": "/#faq"
+        }
+      ],
+      "contact": {
+        "description": "You can always contact us via email or phone. Get in touch and request a quote.",
+        "address": "3170 Rosewood Lane Unit 200, Beverly Hills, CA 90210",
+        "phone": "+1 00000 00000",
+        "email": "info@xyz.com",
+        "fax": "+1 00000 00000"
+      },
+      "copyright": "© 2026 ArchVanta. All Rights Reserved. Powered by Lestow.",
+      "brandTitle": "ArchVanta",
+      "logoImage": "/main logo/light-logo.png",
+      "logoAlt": "ArchVanta",
+      "copyrightText": "© 2026 ArchVanta. All Rights Reserved. Powered by Lestow.",
+      "description": "We remain true to the same principles on which our company was founded: providing superior service to our clients, putting safety first, and creating opportunities for our people.",
+      "quickLinks": [
+        {
+          "id": "ql1",
+          "label": "Our Company",
+          "url": "/about"
+        },
+        {
+          "id": "ql2",
+          "label": "Our Services",
+          "url": "/services"
+        },
+        {
+          "id": "ql3",
+          "label": "Career",
+          "url": "/career"
+        },
+        {
+          "id": "ql4",
+          "label": "Certifications",
+          "url": "/certifications"
+        },
+        {
+          "id": "ql5",
+          "label": "Company History",
+          "url": "/about"
+        },
+        {
+          "id": "ql6",
+          "label": "Core Values",
+          "url": "/about"
+        },
+        {
+          "id": "ql7",
+          "label": "FAQ",
+          "url": "/#faq"
+        },
+        {
+          "id": "ql8",
+          "label": "Gallery",
+          "url": "/#project-gallery"
+        }
+      ],
+      "contactInfo": {
+        "address": "3170 Rosewood Lane Unit 200, Beverly Hills, CA 90210",
+        "phone": "+1 00000 00000",
+        "email": "info@xyz.com"
+      },
+      "socialLinks": [],
+      "servicesLinks": [
+        {
+          "id": "sl1",
+          "label": "Building Planning",
+          "url": "/services/building-planning"
+        },
+        {
+          "id": "sl2",
+          "label": "House Renovation",
+          "url": "/services/house-renovation"
+        },
+        {
+          "id": "sl3",
+          "label": "Architecture & Building",
+          "url": "/services/architecture-building"
+        },
+        {
+          "id": "sl4",
+          "label": "Interior Design",
+          "url": "/services/interior-design"
+        },
+        {
+          "id": "sl5",
+          "label": "Building Engineering",
+          "url": "/services/building-engineering"
+        },
+        {
+          "id": "sl6",
+          "label": "Construction Consultant",
+          "url": "/services/construction-consultant"
+        },
+        {
+          "id": "sl7",
+          "label": "All Services",
+          "url": "/services"
+        }
+      ]
+    }
+  },
+  "categories": {
+    "ArchVanta": {
+      "sections": {
+        "Brand": {
+          "variants": {
+            "ArchVantaBrand1": {
+              "name": "Arch",
+              "accent": "Vanta",
+              "tagline": "ARCHITECTURE · CONSTRUCTION · DESIGN",
+              "phone": "+1 00000 00000",
+              "phoneHref": "+10000000000",
+              "email": "info@xyz.com",
+              "address": "3170 Rosewood Lane Unit 200, Beverly Hills, CA 9021",
+              "description": "We build on a foundation of quality, integrity, and thoughtful design. Creating spaces that bring people together and stand the test of time."
+            }
+          }
+        },
+        "Header": {
+          "variants": {
+            "ArchVantaHeader1": {
+              "logo": {
+                "src": "/main logo/light-logo.png",
+                "alt": "ArchVanta Architecture Construction Design",
+                "href": "/",
+                "width": 350,
+                "height": 0
+              },
+              "navLinks": [
+                {
+                  "id": 1,
+                  "label": "Home",
+                  "href": "#home"
+                },
+                {
+                  "id": 2,
+                  "label": "About Us",
+                  "href": "#about"
+                },
+                {
+                  "id": 3,
+                  "label": "Services",
+                  "href": "#services",
+                  "children": [
+                    {
+                      "label": "Architecture Design",
+                      "href": "#services"
+                    },
+                    {
+                      "label": "Construction",
+                      "href": "#services"
+                    },
+                    {
+                      "label": "Interior Design",
+                      "href": "#services"
+                    },
+                    {
+                      "label": "Planning & Consultation",
+                      "href": "#services"
+                    }
+                  ]
+                },
+                {
+                  "id": 4,
+                  "label": "Projects",
+                  "href": "#projects"
+                },
+                {
+                  "id": 5,
+                  "label": "Contact Us",
+                  "href": "#contact"
+                }
+              ],
+              "contact": {
+                "label": "+1 00000 00000",
+                "href": "tel:+1 0000000000",
+                "icon": "phone"
+              },
+              "styles": {
+                "background": "#103245",
+                "accent": "#E5AD49",
+                "text": "#FFFFFF"
+              }
+            }
+          }
+        },
+        "Hero": {
+          "variants": {
+            "ArchVantaHero1": {
+              "autoplayDelay": 6000,
+              "slides": [
+                {
+                  "id": 1,
+                  "image": "/other/slide-1.jpg",
+                  "imageAlt": "Modern luxury residential architecture",
+                  "eyebrow": "CONSTRUCTION & ARCHITECTURE",
+                  "title": "Building Tomorrow’s",
+                  "highlight": "Spaces Today",
+                  "description": "Delivering modern, functional, and sustainable construction and architectural solutions for residential, commercial, and industrial projects.",
+                  "features": [
+                    {
+                      "icon": "hard-hat",
+                      "label": "Expert Team"
+                    },
+                    {
+                      "icon": "award",
+                      "label": "Quality Construction"
+                    },
+                    {
+                      "icon": "building",
+                      "label": "Modern Designs"
+                    }
+                  ]
+                },
+                {
+                  "id": 2,
+                  "image": "/other/slide-2.jpg",
+                  "imageAlt": "Premium architectural home design",
+                  "eyebrow": "INNOVATIVE ARCHITECTURE",
+                  "title": "Designing Beautiful",
+                  "highlight": "Living Spaces",
+                  "description": "We combine creative architecture, smart planning, and expert craftsmanship to bring extraordinary spaces to life.",
+                  "features": [
+                    {
+                      "icon": "hard-hat",
+                      "label": "Expert Team"
+                    },
+                    {
+                      "icon": "award",
+                      "label": "Trusted Quality"
+                    },
+                    {
+                      "icon": "building",
+                      "label": "Creative Designs"
+                    }
+                  ]
+                },
+                {
+                  "id": 3,
+                  "image": "/other/slide-3.jpg",
+                  "imageAlt": "Contemporary construction project",
+                  "eyebrow": "BUILDING YOUR VISION",
+                  "title": "Creating Spaces",
+                  "highlight": "That Inspire",
+                  "description": "From concept to completion, we deliver architectural excellence and reliable construction solutions.",
+                  "features": [
+                    {
+                      "icon": "hard-hat",
+                      "label": "Skilled Professionals"
+                    },
+                    {
+                      "icon": "award",
+                      "label": "Premium Quality"
+                    },
+                    {
+                      "icon": "building",
+                      "label": "Smart Planning"
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+        "AboutUs": {
+          "variants": {
+            "ArchVantaAboutUs1": {
+              "eyebrow": "ABOUT US",
+              "heading": {
+                "normal": "Who We",
+                "highlight": "Are"
+              },
+              "paragraphs": [
+                "ArchVanta is a trusted construction and architecture company dedicated to creating modern, functional, and sustainable spaces. With a strong focus on quality, safety, and innovation, we deliver end-to-end building solutions for residential, commercial, and industrial projects.",
+                "Our experienced team combines creative design with expert construction to turn ideas into lasting structures that add value and inspire better living and working environments."
+              ],
+              "features": [
+                {
+                  "id": 1,
+                  "icon": "award",
+                  "title": "Quality",
+                  "subtitle": "Driven"
+                },
+                {
+                  "id": 2,
+                  "icon": "users",
+                  "title": "Experienced",
+                  "subtitle": "Team"
+                },
+                {
+                  "id": 3,
+                  "icon": "building",
+                  "title": "End-to-End",
+                  "subtitle": "Solutions"
+                }
+              ],
+              "image": {
+                "src": "/other/about.jpg",
+                "alt": "ArchVanta construction professionals reviewing architectural blueprints"
+              }
+            }
+          }
+        },
+        "Services": {
+          "variants": {
+            "ArchVantaServices1": {
+              "eyebrow": "OUR SERVICE",
+              "heading": {
+                "normal": "Full Service ",
+                "highlight": "Construction Company"
+              },
+              "paragraphs": [
+                "We offer a complete range of construction and architecture services, delivering quality, innovation, and reliable solutions for every project."
+              ],
+              "sectionId": "services",
+              "items": [
+                {
+                  "id": 1,
+                  "title": "Building Planning",
+                  "icon": "building",
+                  "image": "/other/service-1.png",
+                  "imageAlt": "Modern city buildings under construction",
+                  "href": ""
+                },
+                {
+                  "id": 2,
+                  "title": "House Renovation",
+                  "icon": "house",
+                  "image": "/other/service-2.png",
+                  "imageAlt": "Residential renovation and construction",
+                  "href": ""
+                },
+                {
+                  "id": 3,
+                  "title": "Architecture & Building",
+                  "icon": "drafting",
+                  "image": "/other/service-3.png",
+                  "imageAlt": "Modern architectural building design",
+                  "href": ""
+                },
+                {
+                  "id": 4,
+                  "title": "Interior Design",
+                  "icon": "sofa",
+                  "image": "/other/service-4.png",
+                  "imageAlt": "Luxury modern home interior design",
+                  "href": ""
+                },
+                {
+                  "id": 5,
+                  "title": "Building Engineering",
+                  "icon": "layers",
+                  "image": "/other/service-5.png",
+                  "imageAlt": "Contemporary commercial building engineering",
+                  "href": ""
+                },
+                {
+                  "id": 6,
+                  "title": "Construction Consultant",
+                  "icon": "hard-hat",
+                  "image": "/other/about.jpg",
+                  "imageAlt": "Construction engineer reviewing architectural plans",
+                  "href": ""
+                },
+                {
+                  "id": 7,
+                  "title": "All Services",
+                  "icon": "grid",
+                  "image": "/other/service-6.png",
+                  "imageAlt": "Modern architectural facade",
+                  "href": ""
+                }
+              ]
+            }
+          }
+        },
+        "Achievements": {
+          "variants": {
+            "ArchVantaAchievements1": {
+              "eyebrow": "OUR ACHIEVEMENTS",
+              "heading": {
+                "normal": "Building Trust",
+                "highlight": "Through Numbers"
+              },
+              "description": "A track record of successful projects, satisfied clients, and a dedicated team that drives our continued growth.",
+              "backgroundImage": "/other/achievement-bg.jpg",
+              "stats": [
+                {
+                  "id": 1,
+                  "value": 346,
+                  "suffix": "+",
+                  "label": "PROJECTS COMPLETED",
+                  "icon": "building"
+                },
+                {
+                  "id": 2,
+                  "value": 932,
+                  "suffix": "+",
+                  "label": "HAPPY CLIENTS",
+                  "icon": "users"
+                },
+                {
+                  "id": 3,
+                  "value": 325,
+                  "suffix": "+",
+                  "label": "QUALIFIED STAFF",
+                  "icon": "graduation"
+                },
+                {
+                  "id": 4,
+                  "value": 4321,
+                  "suffix": "+",
+                  "label": "MACHINERIES",
+                  "icon": "crane"
+                }
+              ]
+            }
+          }
+        },
+        "Projects": {
+          "variants": {
+            "ArchVantaProjects1": {
+              "eyebrow": "OUR PROJECTS",
+              "heading": {
+                "normal": "Featured",
+                "highlight": "Works"
+              },
+              "description": "Showcasing our recent construction and architectural projects that reflect our quality, innovation, and commitment to excellence.",
+              "featured": {
+                "id": 1,
+                "category": "COMMERCIAL",
+                "title": "Modern Office Building",
+                "image": "/other/modern-office.webp",
+                "icon": "building",
+                "href": "/projects/modern-office-building"
+              },
+              "items": [
+                {
+                  "id": 2,
+                  "category": "RESIDENTIAL",
+                  "title": "Luxury Villa Construction",
+                  "image": "/other/project-1.webp",
+                  "icon": "house",
+                  "href": "/projects/luxury-villa"
+                },
+                {
+                  "id": 3,
+                  "category": "INDUSTRIAL",
+                  "title": "Factory & Warehouse",
+                  "image": "/other/project-2.webp",
+                  "icon": "factory",
+                  "href": "/projects/factory-warehouse"
+                },
+                {
+                  "id": 4,
+                  "category": "RESIDENTIAL",
+                  "title": "Apartment Complex",
+                  "image": "/other/project-3.webp",
+                  "icon": "building",
+                  "href": "/projects/apartment-complex"
+                },
+                {
+                  "id": 5,
+                  "category": "INSTITUTIONAL",
+                  "title": "School Building",
+                  "image": "/other/project-4.webp",
+                  "icon": "graduation",
+                  "href": "/projects/school-building"
+                },
+                {
+                  "id": 6,
+                  "category": "COMMERCIAL",
+                  "title": "Retail Showroom",
+                  "image": "/other/project-5.webp",
+                  "icon": "shopping",
+                  "href": "/projects/retail-showroom"
+                }
+              ]
+            }
+          }
+        },
+        "Gallery": {
+          "variants": {
+            "ArchVantaGallery1": {
+              "sectionId": "project-gallery",
+              "eyebrow": "OUR Gallery",
+              "heading": {
+                "normal": "Project",
+                "highlight": "Gallery"
+              },
+              "description": "",
+              "items": [
+                {
+                  "id": 1,
+                  "title": "Commercial Building",
+                  "category": "Commercial",
+                  "image": "/other/gallery-1.webp",
+                  "alt": "Modern commercial glass office building",
+                  "href": "/projects/commercial-building"
+                },
+                {
+                  "id": 2,
+                  "title": "Luxury Villa",
+                  "category": "Residential",
+                  "image": "/other/gallery-2.webp",
+                  "alt": "Luxury modern villa with garden",
+                  "href": "/projects/luxury-villa"
+                },
+                {
+                  "id": 3,
+                  "title": "Construction Site",
+                  "category": "Construction",
+                  "image": "/other/gallery-3.webp",
+                  "alt": "Multi-storey building under construction",
+                  "href": "/projects/construction-site"
+                },
+                {
+                  "id": 4,
+                  "title": "Industrial Warehouse",
+                  "category": "Industrial",
+                  "image": "/other/gallery-4.webp",
+                  "alt": "Modern industrial warehouse",
+                  "href": "/projects/industrial-warehouse"
+                },
+                {
+                  "id": 5,
+                  "title": "Apartment Complex",
+                  "category": "Residential",
+                  "image": "/other/gallery-5.webp",
+                  "alt": "Modern residential apartment complex",
+                  "href": "/projects/apartment-complex"
+                }
+              ]
+            }
+          }
+        },
+        "Cta": {
+          "variants": {
+            "ArchVantaCta1": {
+              "sectionId": "project-cta",
+              "heading": {
+                "line1": "Ready to Start",
+                "line2": "Your",
+                "highlight": "Next Project?"
+              },
+              "button": {
+                "text": "Contact Us",
+                "href": "/contact"
+              },
+              "backgroundImage": "/other/cta-bg.jpg",
+              "backgroundAlt": "Modern glass commercial building at dusk"
+            }
+          }
+        },
+        "Testimonials": {
+          "variants": {
+            "ArchVantaTestimonials1": {
+              "eyebrow": "OUR TESTIMONIALS",
+              "heading": {
+                "normal": "What Our",
+                "highlight": "Clients Say"
+              },
+              "description": "Trusted by homeowners, businesses, and industries for quality construction and reliable project delivery.",
+              "items": [
+                {
+                  "id": 1,
+                  "name": "Rohit Verma",
+                  "role": "Property Owner",
+                  "image": "/other/client-rohit.webp",
+                  "rating": 5,
+                  "review": "Excellent construction quality and professional service! The team was supportive, transparent, and completed our project on time. Highly recommended!"
+                },
+                {
+                  "id": 2,
+                  "name": "Priya Sharma",
+                  "role": "Business Owner",
+                  "image": "/other/client-priya.webp",
+                  "rating": 5,
+                  "review": "A reliable and experienced construction company. They understood our requirements perfectly and delivered a modern, high-quality space beyond our expectations."
+                },
+                {
+                  "id": 3,
+                  "name": "Amit Kapoor",
+                  "role": "Commercial Client",
+                  "image": "/other/client-rohit.webp",
+                  "rating": 5,
+                  "review": "Great attention to detail and excellent project management. The entire construction process was smooth and well organized."
+                },
+                {
+                  "id": 4,
+                  "name": "Neha Gupta",
+                  "role": "Homeowner",
+                  "image": "/other/client-priya.webp",
+                  "rating": 5,
+                  "review": "From planning to final delivery, the team demonstrated professionalism and a strong commitment to quality."
+                }
+              ]
+            }
+          }
+        },
+        "Faq": {
+          "variants": {
+            "ArchVantaFaq1": {
+              "eyebrow": "FAQ",
+              "heading": {
+                "normal": "Frequently Asked",
+                "highlight": "Questions"
+              },
+              "description": "Have questions? We've got answers. Here are some of the most common queries about our construction services, process, and support.",
+              "image": "/other/faq.webp",
+              "imageAlt": "Construction engineer wearing safety equipment",
+              "imageCaption": "Get Answers for Your Construction Queries",
+              "items": [
+                {
+                  "id": 1,
+                  "question": "Where are your office located?",
+                  "answer": "Our main office is located in New Delhi, India, and we also serve clients across major cities for construction and infrastructure projects."
+                },
+                {
+                  "id": 2,
+                  "question": "Do you provide free consultation?",
+                  "answer": "We offer an initial consultation to understand your project requirements, budget, and expectations. Contact our team to confirm consultation availability."
+                },
+                {
+                  "id": 3,
+                  "question": "What types of construction projects do you handle?",
+                  "answer": "We provide residential, commercial, and industrial construction services, including building planning, renovation, architecture, and interior design."
+                },
+                {
+                  "id": 4,
+                  "question": "How long does a typical project take?",
+                  "answer": "Project timelines depend on the size, complexity, approvals, and construction requirements. We provide an estimated schedule after reviewing the project scope."
+                },
+                {
+                  "id": 5,
+                  "question": "Do you offer post-construction support?",
+                  "answer": "Post-construction support can be discussed as part of the project agreement, including maintenance guidance and assistance with completed work."
+                }
+              ]
+            }
+          }
+        }
+      },
+      "templateComponents": {
+        "shared": {
+          "Header": "ArchVantaHeader1",
+          "Footer": "ArchVantaFooter1"
+        },
+        "pages": {
+          "home": {
+            "components": [
+              {
+                "key": "HeroSection",
+                "component": "ArchVantaHero1"
+              },
+              {
+                "key": "AboutUs",
+                "component": "ArchVantaAboutUs1"
+              },
+              {
+                "key": "Services",
+                "component": "ArchVantaServices1"
+              },
+              {
+                "key": "Achievements",
+                "component": "ArchVantaAchievements1"
+              },
+              {
+                "key": "Projects",
+                "component": "ArchVantaProjects1"
+              },
+              {
+                "key": "Gallery",
+                "component": "ArchVantaGallery1"
+              },
+              {
+                "key": "Cta",
+                "component": "ArchVantaCta1"
+              },
+              {
+                "key": "Testimonials",
+                "component": "ArchVantaTestimonials1"
+              },
+              {
+                "key": "Faq",
+                "component": "ArchVantaFaq1"
+              }
+            ]
+          }
+        }
+      }
+    }
+  }
+}
