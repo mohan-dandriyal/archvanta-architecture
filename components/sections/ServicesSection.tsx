@@ -128,8 +128,8 @@ function ServiceCard({
                 <div className="absolute inset-0 bg-[#103245]/0 transition-colors duration-500 group-hover:bg-[#103245]/15" />
 
                 {/* =====================================
-            CONTENT
-        ===================================== */}
+                    CONTENT
+                ===================================== */}
                 <div className="absolute inset-x-0 bottom-0 z-10 px-5 pb-10 sm:px-7 lg:px-8">
                     <div className="flex items-center gap-5">
 
@@ -159,7 +159,7 @@ function ServiceCard({
                         <span className="h-[58px] w-[3px] shrink-0 bg-[#E5AD49]" />
 
                         {/* TITLE */}
-                        <h3 className="max-w-[230px] font-montserrat text-[21px] font-semibold leading-[1.2] text-white sm:text-xl">
+                        <h3 className="max-w-[230px] font-montserrat text-[16px] font-semibold leading-[1.2] text-white sm:text-xl">
                             {service.title}
                         </h3>
                     </div>

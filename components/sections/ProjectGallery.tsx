@@ -94,7 +94,7 @@ function GalleryCard({
                     </span>
 
                     <div className="mt-2 flex items-center justify-between gap-4">
-                        <h3 className="text-base font-bold font-montserrat text-white sm:text-xl">
+                        <h3 className="text-sm font-bold font-montserrat text-white sm:text-xl">
                             {item.title}
                         </h3>
 

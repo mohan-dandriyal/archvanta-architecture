@@ -396,7 +396,7 @@ export default function Footer() {
                       alt={footer.logo.alt}
                       width={245}
                       height={95}
-                      className="h-auto w-[150px] object-contain sm:w-[230px] lg:w-[260px] 2xl:w-[300px]"
+                      className="h-auto w-[190px] object-contain sm:w-[230px] lg:w-[260px] 2xl:w-[300px]"
                     />
                   </Link>
 
@@ -409,7 +409,7 @@ export default function Footer() {
               {/* COLUMN HEADINGS */}
               {column.key !== "about" && (
                 <>
-                  <h3 className="font-montserrat text-lg font-semibold uppercase">
+                  <h3 className="font-montserrat sm:text-lg font-semibold uppercase">
                     {column.title}
                   </h3>
 
@@ -494,20 +494,12 @@ export default function Footer() {
                                 ? "location"
                                 : undefined
                             }
-                            className={`group flex items-center gap-2 font-montserrat text-sm font-medium transition-colors duration-300 ${
-                              active
-                                ? "text-[#FFBF00]"
-                                : "text-white/80 hover:text-[#FFBF00]"
-                            }`}
+                            className={`group flex items-center gap-2 font-montserrat text-sm font-medium transition-colors duration-300 text-white/80 hover:text-[#FFBF00]`}
                           >
                             <ChevronRight
                               size={17}
                               strokeWidth={3}
-                              className={`shrink-0 transition-all duration-300 ${
-                                active
-                                  ? "translate-x-1 text-[#FFBF00]"
-                                  : "text-[#FFBF00] group-hover:translate-x-1"
-                              }`}
+                              className={`shrink-0 transition-all duration-300 text-[#FFBF00] group-hover:translate-x-1`}
                             />
 
                             <span className="relative">

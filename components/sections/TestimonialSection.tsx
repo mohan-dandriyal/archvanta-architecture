@@ -84,7 +84,7 @@ export default function TestimonialsSection() {
                             <SwiperSlide key={item.id} className="!h-auto">
                                 <div className="flex flex-col sm:flex-row h-full min-h-[250px] overflow-hidden rounded-2xl bg-white shadow-[0_10px_30px_rgba(0,0,0,0.12)]">
                                     <div
-                                        className="relative profile-path h-48 w-full sm:h-auto sm:w-[35%] shrink-0 overflow-hidden border-r-[5px] border-[#E5A11F]"
+                                        className="relative profile-path h-66 w-full sm:h-auto sm:w-[35%] shrink-0 overflow-hidden border-r-[5px] border-[#E5A11F]"
                                         style={{
                                             clipPath: "polygon(0 0,100% 0,84% 100%,0 100%)"
                                         }}
